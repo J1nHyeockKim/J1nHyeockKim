@@ -3,6 +3,10 @@
 <!--
 **J1nHyeockKim/J1nHyeockKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+![JinHyeockKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=J1nHyeockKim&show_icons=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J1nHyeockKim&hide=html,c%23)](https://github.com/anuraghazra/github-readme-stats)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
