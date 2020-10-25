@@ -1,4 +1,5 @@
-### Hello World 🔥🔥🔥
+### Nice to meet you
+### DGSW 4th student developer Kim Jin Hyeock
 
 <!--
 **J1nHyeockKim/J1nHyeockKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
